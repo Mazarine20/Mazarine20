@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Mazarine20/Mazarine20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Salut, moi c’est Mazarine-Celyn D. SANVI
-
-🎯 Développeuse Web Full Stack Freelance | Passionnée par la création de solutions digitales performantes 
-
+## 👋 Salut, moi c’est Mazarine-Celyn D. SANVI
+ 
+🎯 Développeuse Web Full Stack Freelance, passionnée par l’innovation numérique, la création de solutions digitales performantes, l’accessibilité et l’intelligence artificielle.  
+💡 J’aide les entreprises et organisations à concevoir des applications web sur mesure, performantes, efficaces et centrées sur l’humain.  
+🧠 Formatrice engagée dans la démocratisation de l’IA, notamment auprès des jeunes et des femmes au Bénin. 
 ---
 
 ## 💻 Compétences techniques
@@ -59,11 +58,31 @@ Here are some ideas to get you started:
 - 🎛️ **Academie Aparté** : Un site web d'information pour une Académie Professionnelle des Arts pour le Rayonnement du Théâtre et de l'Enseignement (WordPress)
   🔗 [https://academie-aparte.com/](https://academie-aparte.com/)
   
-- 🌍 **UniPod Bénin** : Site vitrine + back-office pour gestion de projets (Vue JS, Laravel)  
+- 🌍 **UniPod Bénin** : Conception du site institutionnel, création d’un tableau de bord pour la gestion des candidatures et la publication des contenus.(Vue JS, Laravel)  
   🔗 [https://benin-unipod.bj](https://benin-unipod.bj)
   
 - 🧳 **Noya-G** : Réservation de voyage en ligne (Laravel + React)  
 - 📱 **Ara Ifè** : Suivi de cycle menstruel mobile (React Native)
+
+---
+
+## 💼 Expériences professionnelles
+
+- 🧾 **Développeuse Web Full Stack – See-U-Better** *(Remote, Freelance – Depuis Mai 2024)*  
+  Conception et développement d’un dashboard de suivi SEO, automatisation de rapports PDF, maintenance et optimisation de sites WordPress et Shopify, création de sites WordPress.
+
+- 🌍 **Développeuse Web Full Stack – UniPod Bénin** *(Freelance – Jan. à Avr. 2024)*  
+  Développement complet du site web de l’organisation, création d’un tableau de bord d’administration et gestion du contenu dynamique.
+
+- 🧳 **Développeuse Web Full Stack – Noya-G** *(Stage – Juil. 2023 à Fév. 2024)*  
+  Développement d’un site de réservation de voyage, maintenance front-end pour un site corporate, création de deux sites e-commerce WordPress.
+
+
+- 👩‍🏫 **Formatrice IA – EEIA (École d'Été d'Intelligence Artificielle) / Fondation Vallet** (depuis 2021)  
+  Animation de cours et Gestion de Projet :  
+  - Programmation de drones pour contrôle vocal et gestuel 
+  - Systèmes de tri automatique par reconnaissance de couleur  
+  - Initiation à Python pour projets robotiques
 
 ---
 
