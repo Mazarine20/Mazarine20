@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 ## 👋 Salut, moi c’est Mazarine-Celyn D. SANVI
  
 #### Développeuse Web Full Stack Freelance, passionnée par l’innovation numérique, la création de solutions digitales performantes, l’accessibilité et l’intelligence artificielle.  
-J’aide les entreprises et organisations à concevoir des applications web sur mesure, performantes, efficaces et centrées sur l’humain.  
-Formatrice engagée dans la démocratisation de l’IA, notamment auprès des jeunes et des femmes au Bénin. ####
+#### J’aide les entreprises et organisations à concevoir des applications web sur mesure, performantes, efficaces et centrées sur l’humain.  
+#### Formatrice engagée dans la démocratisation de l’IA, notamment auprès des jeunes et des femmes au Bénin. 
 ---
 
 ## 💻 Compétences techniques
