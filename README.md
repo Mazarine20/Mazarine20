@@ -52,11 +52,16 @@ Here are some ideas to get you started:
 ## 🚀 Projets
 
 - 🎛️ **See-U-Better** : Dashboard SEO avec génération de rapports (React, Express, MongoDB, Docker)
-- 🎛️ **Bambou** : Site web pour une agence de web-marketing pour les TPE & PME (Wordpress) https://bambou.ai/
-- 🎛️ **See-U-Better** : Dashboard SEO avec génération de rapports (React, Express, MongoDB, Docker)
-- 🎛️ **See-U-Better** : Dashboard SEO avec génération de rapports (React, Express, MongoDB, Docker)
+  
+- 🎛️ **Bambou** : Site web pour une agence de web-marketing pour les TPE & PME (WordPress) 
+  🔗 [https://bambou.ai/](https://bambou.ai/)
+  
+- 🎛️ **Academie Aparté** : Un site web d'information pour une Académie Professionnelle des Arts pour le Rayonnement du Théâtre et de l'Enseignement (WordPress)
+  🔗 [https://academie-aparte.com/](https://academie-aparte.com/)
+  
 - 🌍 **UniPod Bénin** : Site vitrine + back-office pour gestion de projets (Vue JS, Laravel)  
   🔗 [https://benin-unipod.bj](https://benin-unipod.bj)
+  
 - 🧳 **Noya-G** : Réservation de voyage en ligne (Laravel + React)  
 - 📱 **Ara Ifè** : Suivi de cycle menstruel mobile (React Native)
 
@@ -89,9 +94,8 @@ Here are some ideas to get you started:
 ## 📬 Contact
 
 - 📧 Email : [mazarine.sanvi@epitech.eu](mailto:mazarine.sanvi@epitech.eu)
-- 🖥️ GitHub : [github.com/mazarine-sanvi](https://github.com/Mazarine20)
+- 💼 LinkedIn : [linkedin.com/in/mazarine-celyn-sanvi-63011219a](https://www.linkedin.com/in/mazarine-celyn-sanvi-63011219a)
+- 🖥️ GitHub : [github.com/Mazarine-20](https://github.com/Mazarine20)
 - 📍 Localisation : Cotonou, Bénin
-
+- 📂 **Portfolio** : *En cours ...*
 ---
-
-💡 *Ce portfolio est affiché automatiquement sur mon profil grâce au dépôt spécial `mazarine-sanvi` !*
