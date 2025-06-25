@@ -114,7 +114,7 @@ Here are some ideas to get you started:
 
 - 📧 Email : [mazarine.sanvi@epitech.eu](mailto:mazarine.sanvi@epitech.eu)
 - 💼 LinkedIn : [linkedin.com/in/mazarine-celyn-sanvi-63011219a](https://www.linkedin.com/in/mazarine-celyn-sanvi-63011219a)
-- 🖥️ GitHub : [github.com/Mazarine-20](https://github.com/Mazarine20)
+- 🖥️ GitHub : [github.com/Mazarine20](https://github.com/Mazarine20)
 - 📍 Localisation : Cotonou, Bénin
 - 📂 **Portfolio** : *En cours ...*
 ---
